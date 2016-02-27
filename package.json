@@ -1,0 +1,25 @@
+{
+  "name": "ng-download-csv",
+  "version": "1.0.0",
+  "description": "angular service for downloading text/csv content as file from a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-doge/ng-download-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "download",
+    "angular",
+    "service"
+  ],
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/data-doge/ng-download-csv/issues"
+  },
+  "homepage": "https://github.com/data-doge/ng-download-csv#readme"
+}
