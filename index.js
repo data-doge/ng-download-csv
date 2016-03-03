@@ -12,6 +12,7 @@
           target: '_self',
           download: params.filename + '.csv'
         })[0].click()
+        anchor.remove()
       })
     }
   }])
