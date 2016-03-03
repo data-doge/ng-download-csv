@@ -1,6 +1,6 @@
 {
   "name": "ng-download-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "angular service for downloading text/csv content as file from a server",
   "main": "index.js",
   "scripts": {
